@@ -2,6 +2,7 @@ body {
   width: 1600px; /*tamaño */
   margin: 0px;
   padding: 0px;
+  overflow-x: hidden;
 } /*tamaño de la pagina */
 
 header {
