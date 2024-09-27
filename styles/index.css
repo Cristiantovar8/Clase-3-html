@@ -127,7 +127,10 @@ nav ul li a:hover {
 }
 
 #imagen-virtual {
-
+  width: 693px;
+  height: 598px;
+  gap: 0px;
+  opacity: 0px;
 }
 
 .font-Mulish {
